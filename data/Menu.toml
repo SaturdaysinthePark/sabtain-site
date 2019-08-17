@@ -5,9 +5,19 @@
 [posts]
     Name = "Posts"
     Title = "Show list of posts"
-    URL = "/post"
+    URL = "/posts"
 
 [tags]
     Name = "Tags"
     Title = "Show list of tags"
     URL = "/tags"
+
+[bookreviews]
+    Name = "Book reviews"
+    Title = "Show list of book review posts"
+    URL = "tags/book-reviews"
+
+[photogrhaphy]
+    Name = "Photography"
+    Title = "Show list of photography posts"
+    URL = "tags/photography"
