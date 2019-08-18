@@ -1,5 +1,4 @@
 ---
-Type: "post"
 draft: false
 title: "Book Review: The Library at Mount Char"
 author: "Sabtain Khan"

@@ -12,7 +12,7 @@ languageCode = "en-EN"
 
 # Metadata format
 # "yaml", "toml", "json"
-metaDataFormat = "yaml"
+metaDataFormat = "toml"
 
 # Theme to use (located in /themes/THEMENAME/)
 theme = "hyde-y"

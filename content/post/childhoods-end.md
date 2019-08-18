@@ -1,5 +1,4 @@
 ---
-Type: "post"
 draft: false
 title: "Book Review: Childhood's End"
 author: "Sabtain Khan"

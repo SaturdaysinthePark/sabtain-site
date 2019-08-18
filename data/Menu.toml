@@ -5,7 +5,7 @@
 [posts]
     Name = "Posts"
     Title = "Show list of posts"
-    URL = "/posts"
+    URL = "/post"
 
 [tags]
     Name = "Tags"

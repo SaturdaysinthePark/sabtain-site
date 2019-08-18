@@ -1,5 +1,4 @@
 ---
-Type: "post"
 draft: false
 title: "Book Review: David Copperfield"
 author: "Sabtain Khan"
