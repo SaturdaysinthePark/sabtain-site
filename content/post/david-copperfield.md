@@ -1,5 +1,6 @@
 ---
 draft: false
+type: ["post"]
 title: "Book Review: David Copperfield"
 author: "Sabtain Khan"
 date: 2019-01-28

@@ -1,11 +1,9 @@
 ---
-draft: false
-author: "Author"
-title: "Title"
-description: "Description"
+type: "post"
+draft: true
+author: "author"
+description: "description"
 keywords: ["key", "words"]
-topics: ["project"]
-tags: ["code"]
-type: ["post"]
+topics: ["topic 1"]
+tags: ["one", "two"]
 ---
-

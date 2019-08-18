@@ -1,5 +1,6 @@
 ---
 draft: false
+Type: ["post"]
 title: "Book Review: Educated"
 author: "Sabtain Khan"
 date: 2019-01-11

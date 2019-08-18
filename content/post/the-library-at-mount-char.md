@@ -1,5 +1,6 @@
 ---
 draft: false
+type: ["post"]
 title: "Book Review: The Library at Mount Char"
 author: "Sabtain Khan"
 date: 2019-01-15
