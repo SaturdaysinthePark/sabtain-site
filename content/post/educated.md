@@ -1,12 +1,12 @@
 ---
 draft: false
 Type: ["post"]
-title: "Book Review: Educated"
+title: "Educated"
 author: "Sabtain Khan"
 date: 2019-01-11
 description: "----"
 keywords: ["book", "reviews", "memoir", "non-fiction", "biography"]
-topics: ["book review"]
+topics: ["Book Review"]
 tags: ["book reviews", "biography", "non-fiction"]
 ---
 

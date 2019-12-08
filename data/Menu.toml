@@ -21,3 +21,8 @@
     Name = "Photography"
     Title = "Show list of photography posts"
     URL = "tags/photography"
+
+[resume]
+    Name = "My Resume"
+    Title = "My resume"
+    URL = "/resume.html"

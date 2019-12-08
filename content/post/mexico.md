@@ -1,13 +1,13 @@
 ---
 draft: false
 type: ["post"]
-title: "Childhood's End"
+title: "Mexico"
 author: "Sabtain Khan"
-date: 2019-01-03
-description: "This was the first book I read this year... click to read more about my thoughts!"
-keywords: ["book", "reviews", "science", "fiction"]
-topics: ["Book Review"]
-tags: ["book reviews", "sci-fi"]
+date: 2019-01-01
+description: "--"
+keywords: ["photography", "reviews"]
+topics: ["photography"]
+tags: ["photography", "travel", "film"]
 ---
 
 

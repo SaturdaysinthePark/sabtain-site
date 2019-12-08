@@ -1,12 +1,12 @@
 ---
 draft: false
 type: ["post"]
-title: "Book Review: David Copperfield"
+title: "David Copperfield"
 author: "Sabtain Khan"
 date: 2019-01-28
 description: "----"
 keywords: ["book", "reviews", "fiction", "classics", "dickens"]
-topics: ["book review"]
+topics: ["Book Review"]
 tags: ["book reviews", "classics", "fiction"]
 ---
 

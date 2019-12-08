@@ -1,12 +1,12 @@
 ---
 draft: false
 type: ["post"]
-title: "Book Review: The Library at Mount Char"
+title: "The Library at Mount Char"
 author: "Sabtain Khan"
 date: 2019-01-15
 description: "----"
 keywords: ["book", "reviews", "science", "fiction", "fantasy"]
-topics: ["book review"]
+topics: ["Book Review"]
 tags: ["book reviews", "sci-fi", "fantasy", "fiction"]
 ---
 
