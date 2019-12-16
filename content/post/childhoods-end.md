@@ -6,7 +6,7 @@ author: "Sabtain Khan"
 date: 2019-01-03
 description: "This was the first book I read this year... click to read more about my thoughts!"
 keywords: ["book", "reviews", "science", "fiction"]
-topics: ["Book Review"]
+topics: ["book review"]
 tags: ["book reviews", "sci-fi"]
 ---
 

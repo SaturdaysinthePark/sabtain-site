@@ -23,6 +23,6 @@
     URL = "tags/photography"
 
 [resume]
-    Name = "My Resume"
-    Title = "My resume"
-    URL = "/resume.html"
+    Name = "Resume"
+    Title = "Resume"
+    URL = "/resume"

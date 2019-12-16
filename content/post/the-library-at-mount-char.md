@@ -6,7 +6,7 @@ author: "Sabtain Khan"
 date: 2019-01-15
 description: "----"
 keywords: ["book", "reviews", "science", "fiction", "fantasy"]
-topics: ["Book Review"]
+topics: ["book review"]
 tags: ["book reviews", "sci-fi", "fantasy", "fiction"]
 ---
 

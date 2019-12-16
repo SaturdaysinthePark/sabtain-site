@@ -1,7 +1,7 @@
 ---
 draft: false
 title: "About Me"
-type: "static"
+type: "page"
 menu: main
 ---
 

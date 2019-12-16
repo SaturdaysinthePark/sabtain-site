@@ -6,7 +6,7 @@ author: "Sabtain Khan"
 date: 2019-01-11
 description: "----"
 keywords: ["book", "reviews", "memoir", "non-fiction", "biography"]
-topics: ["Book Review"]
+topics: ["book review"]
 tags: ["book reviews", "biography", "non-fiction"]
 ---
 

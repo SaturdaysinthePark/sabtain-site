@@ -6,7 +6,7 @@ author: "Sabtain Khan"
 date: 2019-01-28
 description: "----"
 keywords: ["book", "reviews", "fiction", "classics", "dickens"]
-topics: ["Book Review"]
+topics: ["book review"]
 tags: ["book reviews", "classics", "fiction"]
 ---
 
