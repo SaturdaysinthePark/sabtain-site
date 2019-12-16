@@ -4,5 +4,8 @@
     "build": "npm run build:css --prefix themes/hyde-y && hugo",
     "test": "echo \"Error: no test specified\" && exit 1",
     "watch": "grunt watch"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.4"
   }
 }
