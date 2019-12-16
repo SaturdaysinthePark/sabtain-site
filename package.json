@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "build:css": "grunt build:css",
+    "build:css": "grunt build:css --prefix themes/hyde-y",
     "build": "npm run build:css --prefix themes/hyde-y && hugo",
     "test": "echo \"Error: no test specified\" && exit 1",
     "watch": "grunt watch"
