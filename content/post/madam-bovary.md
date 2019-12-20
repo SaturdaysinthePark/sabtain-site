@@ -1,0 +1,18 @@
+---
+draft: false
+type: ["post"]
+title: "Madam Bovary"
+author: "Sabtain Khan"
+date: 2019-02-05
+description: ""
+keywords: ["book", "reviews", "fiction", "classics"]
+topics: ["book review"]
+tags: ["book reviews", "fiction", "classics"]
+---
+
+
+<a href="https://www.goodreads.com/book/show/4504880-madame-bovary" style="float: left; padding-right: 20px"><img border="0" alt="Madame Bovary" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1266770586l/4504880._SX98_.jpg" /></a><a href="https://www.goodreads.com/book/show/4504880-madame-bovary">Madame Bovary</a> by <a href="https://www.goodreads.com/author/show/1461.Gustave_Flaubert">Gustave Flaubert</a><br/>
+My rating: <a href="https://www.goodreads.com/review/show/2661823643">5 of 5 stars</a><br /><br />
+A book in which the surface of it is about the blindness of Romance where the titular character Emma Bovary takes on a quest to search for the hot idealized romance you may have read in those romantic novels your Mom never let you read. Once you peel the onion, you start to see that many aspects of the lives of the characters in this novel mirror the lives of today's society and will continue to mirror those of the future - <i> this is what it means for a novel to be timeless. </i><br /><br />Flaubert starts by painting his characters innocent: Emma has an undesirable husband who does not pay attention to her needs. Then, he starts to expose the character in ways where you're no longer sympathetic towards the character - but you're hungry for more of their story. Emma has an insatiable desire for passion, worldly material, attention, etc.. Nothing she pursues ever meets her expectation or fantasy, and she has an ability to cast blame on everything but herself.<br /><br />Madame Bovary makes you question what you are willing to accept, and what lengths you will go to in order to achieve something you're truly desiring - exemplified through several characters, most notably Emma's selfish pursuits. You can transfer a key message Flaubert is giving the reader to just about any other endeavor: When you selfishly and blindly commit yourself to the pursuit of your desire, you will encounter severe pain along the way, and ultimately never achieve what you set out for.<br /><br />Every detail in this book is important, I learned from <a href="https://www.goodreads.com/book/show/2176.Flaubert_s_Parrot" title="Flaubert's Parrot by Julian Barnes" rel="nofollow">Flaubert's Parrot</a>. Tip: pay attention to color, pay attention to Emma's eye color....that's all I'll say, and in fact, I'll have to re-read this someday and pay attention to that and many other things as well.<br /><br />I recommend reading <a href="https://www.goodreads.com/author/show/19319211.Flaubert_Gustave" title="Flaubert Gustave" rel="nofollow">Flaubert Gustave</a>'s other books, particularly <a href="https://www.goodreads.com/book/show/269894.A_Simple_Heart" title="A Simple Heart by Gustave Flaubert" rel="nofollow">A Simple Heart</a> and <a href="https://www.goodreads.com/book/show/40763.Bouvard_and_Pecuchet" title="Bouvard and Pecuchet by Gustave Flaubert" rel="nofollow">Bouvard and Pecuchet</a>. If you've read those, then you're ready to read <a href="https://www.goodreads.com/author/show/1462.Julian_Barnes" title="Julian Barnes" rel="nofollow">Julian Barnes</a>'s book: <a href="https://www.goodreads.com/book/show/2176.Flaubert_s_Parrot" title="Flaubert's Parrot by Julian Barnes" rel="nofollow">Flaubert's Parrot</a>, which is an interesting read if you've now become a fan of Flaubert!
+<br/><br/>
+<a href="https://www.goodreads.com/review/list/19015356-sabtain-khan">View all my reviews</a>
