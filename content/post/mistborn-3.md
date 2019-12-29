@@ -1,7 +1,7 @@
 ---
 draft: false
 type: ["post"]
-title: "The Hero of Ages (Mistborn #3)"
+title: "The Hero of Ages (Mistborn 3)"
 author: "Sabtain Khan"
 date: 2019-10-01
 description: ""

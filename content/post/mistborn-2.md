@@ -1,7 +1,7 @@
 ---
 draft: false
 type: ["post"]
-title: "The Well of Ascension (Mistborn #2)"
+title: "The Well of Ascension (Mistborn 2)"
 author: "Sabtain Khan"
 date: 2019-09-28
 description: ""

@@ -1,7 +1,7 @@
 ---
 draft: false
 type: ["post"]
-title: "Skyward (Skyward #1)"
+title: "Skyward (Skyward 1)"
 author: "Sabtain Khan"
 date: 2019-06-05
 description: ""

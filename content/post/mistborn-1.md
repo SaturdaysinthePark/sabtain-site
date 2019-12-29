@@ -1,7 +1,7 @@
 ---
 draft: false
 type: ["post"]
-title: "The Final Empire (Mistborn #1)"
+title: "The Final Empire (Mistborn 1)"
 author: "Sabtain Khan"
 date: 2019-09-25
 description: ""
