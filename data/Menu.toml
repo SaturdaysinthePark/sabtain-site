@@ -17,10 +17,10 @@
     Title = "Show list of book review posts"
     URL = "tags/book-reviews"
 
-[photogrhaphy]
-    Name = "Photography"
-    Title = "Show list of photography posts"
-    URL = "tags/photography"
+#[photogrhaphy]
+#   Name = "Photography"
+#   Title = "Show list of photography posts"
+#   URL = "tags/photography"
 
 [resume]
     Name = "Resume"
