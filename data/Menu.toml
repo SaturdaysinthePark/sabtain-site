@@ -22,7 +22,7 @@
 #   Title = "Show list of photography posts"
 #   URL = "tags/photography"
 
-[resume]
-    Name = "Resume"
-    Title = "Resume"
-    URL = "/resume"
+#[resume]
+#    Name = "Resume"
+#    Title = "Resume"
+#    URL = "/resume"
