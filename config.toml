@@ -2,10 +2,10 @@
 baseurl = "https://www.sabta.in"
 
 # Site title
-title = ""
+title = "Sabtain Khan's Website"
 
 # Copyright
-copyright = "(c) 2019 Sabtain Khan."
+copyright = "(c) 2020 Sabtain Khan."
 
 # Language
 languageCode = "en-EN"
@@ -18,7 +18,7 @@ metaDataFormat = "yaml"
 theme = "hyde-y"
 
 # Pagination
-paginate = 10
+paginate = 15
 paginatePath = "page"
 
 # Enable Disqus integration
@@ -42,12 +42,16 @@ disqusShortname = ""
 [params]
     # You can use markdown here.
     brand = "Sabtain Khan"
-    topline = "Obessed with reading books"
+    topline = "Book reviews and more..."
     footline = ""
 
     # Sidebar position
     # false, true, "left", "right"
     sidebar = "left"
+
+    # turn off pluralizatoin
+    pluralizelisttitles = false
+
 
     # Text for the top menu link, which goes the root URL for the site.
     # Default (if omitted) is "Home".
@@ -59,7 +63,7 @@ disqusShortname = ""
     highlight = "default"
 
     # Google Analytics.
-    googleAnalytics = "Your Google Analytics tracking code"
+    googleAnalytics = "UA-43824327-4"
 
     # Sidebar social links.
     github = "saturdaysinthepark" # Your Github profile ID
@@ -75,7 +79,7 @@ disqusShortname = ""
 
     # Sidebar RSS link: will only show up if there is a RSS feed
     # associated with the current page
-    rss = true
+    rss = false
 
 [blackfriday]
     angledQuotes = true
