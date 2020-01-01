@@ -15,6 +15,8 @@ tags: ["reading"]
 
 I sort of segmented everything in this pseudo FAQ, based on real questions I get about books and my reading habits. It seems like a nice way to convey everything, and I hope you enjoy.
 
+A lot of the stats/figures I reference are actually part of a spreadsheet I use to track my reading habits, check it out [here](https://docs.google.com/spreadsheets/d/1Nwb3f6ellfckRrbwsnnP2fp8JWe8oTKoVJ2UXICE_R8/edit?usp=sharing).
+
 
 ### How many books did you read this year (2019)?
 82, but the amount isn't _that_ important.
@@ -71,7 +73,10 @@ In the past 5 years, 78% of the books I've read are Fiction (80% of pages read w
 The Count of Monte Cristo
 
 ### Okay, top 10 books you've read for the first time these past five years?
-Fiction:
+I get asked these sort of questions often, so sometimes I'm inconsistent, its hard to list things this way.
+
+*Fiction:*
+
 1. The Count of Monte Cristo
 2. Shadow of the Wind
 3. Memoirs of a Geisha
@@ -82,13 +87,14 @@ Fiction:
 9. Little Women
 10. 11/22/63
 
-Non Fiction:
+*Non Fiction:*
+
 1. The Courage to be Disliked
 2. Meditations
 3. Why We Sleep
 4. The Bully Pulpit
 5. Creativity Inc.
-6. Jackson Pollock: an American Story
+6. Jackson Pollock: An American Saga
 7. 84, Charing Cross Rd
 8. Duchamp
 9. 1453: The Holy War for Constantinople and the Clash of Islam and the West
@@ -108,7 +114,7 @@ Non Fiction:
 10. Between the World and Me
 
 
-## What were the worst books in these past five years?
+### What were the worst books you've read in these past five years?
 
 1. Go set a Watchman
 2. A Curious Mind (Did not finish)
@@ -135,17 +141,51 @@ Why We Sleep
 The Courage to be Disliked
 
 ### What book surprised you the most?
-In 2019 it was probably 11/22/63; I did not know much about Stephen King and only ever associated him with Horror or the Dark Tower. This was a fantastic book, its daunting in size, but just such an amazing story.
+In 2019 it was probably _11/22/63_; I did not know much about Stephen King and only ever associated him with Horror or the Dark Tower. This was a fantastic book, its daunting in size, but just such an amazing story.
 
-### Who are your favorite authors?
+_The White Album_ by Joan Didion also surprised me, mainly because I had no idea what to expect.
 
-Joan Didion (The White Album, The Year of Magical Thinking)
+_Men Without Women_ was a surprise two-fold, one because it was gifted as a surprise. Second, because Murakami wasn't known to me as the kind of writer he showed himself to be in that book.
 
+### Who are some of your favorite authors these past 5 years?
 
-### Which Authors have you read the most works of?
+Like all 'favorites' this is hard to pinpoint, but I'll name a few that I find myself loving:
+
+- Joan Didion (The White Album, The Year of Magical Thinking)
+- Fyodor Dostoyevsky (Crime and Punishment, Notes from Underground)
+- Neil Gaiman (Neverwhere, Coraline, American Gods)
+- Jane Austen (Pride and Prejudice)
+- Agatha Christie (And Then There Were None, The Murder of Roger Ackroyd)
+
+### Which Authors have you read the most books/works of?
 
 Not limiting to these past 5 years its:
 Neil Gaiman, JK Rowling, and Brandon Sanderson top the list
 
-Then its Joan Didion, Shakespeare, Virginia Woolf, Gladwell, Murakami, Fitzgerald, Stephen King, Hemingway, Kazuo Ishiguro, Kurt Vonnegut
+Then its: Joan Didion, Shakespeare, Virginia Woolf, Gladwell, Murakami, Fitzgerald, Stephen King, Hemingway, Kazuo Ishiguro, Kurt Vonnegut
 
+### Other things you've learned about your reading habits?
+In the past 5 years:
+
+- ~39% of the books I read are written by female authors
+- ~50% of the books I read are between 250-500 pages, ~19% are above 500 pages
+- ~53% of the books I read are publihsed in the 2000s, ~36% published in the 1900s
+- On average the books I read have ~360 pages, and I tend to read 67 pages per day, so ~ 5.5 days per book
+- I read 341 books, of them there were 212 unique authors (62%)
+
+### What other analysis will you be doing?
+
+More interest into genres I read: biographies/memoirs, mystery/crime, sci-fi/fantasy, psychology/sociology, general business, etc... I want to know where I lean.
+
+Another thing is an understanding of the types of authors I am reading, I want to make sure I'm reading from a diverse crowd.
+
+### What are you going to read next?
+
+I haven't planned things out perfectly, as mentioned before. Currently I'm reading [Bird by Bird](https://www.goodreads.com/book/show/12543.Bird_by_Bird) by Anne Lamott. So that will be my first read of 2020.
+
+
+## Thanks
+
+I hope this is informative, and I hope you're encouraged to read more!
+
+ Feel free to reach out to me by email [sabtain.a.khan@gmail.com](mailto:sabtain.a.khan@gmail.com), I'm always in a mood to discuss literature over coffee or tea.
