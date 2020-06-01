@@ -101,7 +101,7 @@ I get asked these sort of questions often, so sometimes I'm inconsistent, its ha
 
 1. [The Count of Monte Cristo](https://www.goodreads.com/book/show/12512180-the-count-of-montecristo)
 2. [Shadow of the Wind](https://www.goodreads.com/book/show/1232.The_Shadow_of_the_Wind)
-3. [Memoirs of a Geisha]()
+3. [Memoirs of a Geisha](https://www.goodreads.com/book/show/929.Memoirs_of_a_Geisha)
 4. [Crime and Punishment](https://www.goodreads.com/book/show/7144.Crime_and_Punishment)
 5. [Rebecca](https://www.goodreads.com/book/show/17899948-rebecca)
 7. [The Picture of Dorian Gray](https://www.goodreads.com/book/show/5297.The_Picture_of_Dorian_Gray)
